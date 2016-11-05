@@ -1,2 +1,2 @@
-
+利用python中的facebook-sdk连接facebook的官方api获取用户的pages.posts,post_comments,post_reactions的数据,存储放入MongoDB中.
  
